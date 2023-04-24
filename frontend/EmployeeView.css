@@ -1,0 +1,21 @@
+.add-book-button{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    bottom: 30px;
+    left: 50px;
+}
+
+.columns{
+    min-height: 480px;
+}
+
+
+.tabs{
+   display: flex;
+   justify-content: center;
+}
+
+vaadin-tabs::part(tabs){
+    justify-content: center;
+}

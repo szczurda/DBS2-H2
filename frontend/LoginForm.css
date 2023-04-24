@@ -1,0 +1,11 @@
+.user-login-form * {
+    width: -moz-available;
+    width: -webkit-fill-available;
+    width: fill-available;
+
+}
+
+.login-form-label {
+    text-align: center;
+    font-size: 24px;
+}

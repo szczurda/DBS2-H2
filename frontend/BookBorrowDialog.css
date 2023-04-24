@@ -1,0 +1,10 @@
+
+.dialogLayout vaadin-text-field{
+        width: -moz-available;
+        width: -webkit-fill-available;
+        width: fill-available;
+}
+
+vaadin-number-field{
+    width: 30%;
+}

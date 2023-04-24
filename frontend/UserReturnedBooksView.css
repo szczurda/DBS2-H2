@@ -1,0 +1,9 @@
+vaadin-grid-cell-content {
+    text-align: center;
+}
+
+.dialogLayout vaadin-text-field{
+        width: -moz-available;
+        width: -webkit-fill-available;
+        width: fill-available;
+}
